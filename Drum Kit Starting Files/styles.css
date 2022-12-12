@@ -16,33 +16,19 @@ footer {
   font-family: sans-serif;
 }
 
-.w {
+.w {}
 
-}
+.a {}
 
-.a {
+.s {}
 
-}
+.d {}
 
-.s {
+.j {}
 
-}
+.k {}
 
-.d {
-
-}
-
-.j {
-
-}
-
-.k {
-
-}
-
-.l {
-
-}
+.l {}
 
 .set {
   margin: 10% auto;
@@ -78,4 +64,8 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+
+.drum:active {
+  background-color: #DA0463;
 }
